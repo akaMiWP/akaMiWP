@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**akaMiWP/akaMiWP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there! You can call me Michael
 
-Here are some ideas to get you started:
+I'm a full-time iOS software engineer with a deep passion for Web3 technology. While my primary role is as an iOS developer, I also have experience as a full-stack Ethereum blockchain developer. I hold an EVM Chain Certification from Alchemy University, where I gained expertise in blockchain cryptography, Ethereum node APIs, smart contract development, and Solidity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 **Location:** Bangkok, Thailand
+
+---
+
+### 🛠️ Skills & Expertise
+
+- **Primary Programming Language:** Swift
+- **Secondary Programming Languages:** JavaScript, Solidity
+- **Strong Expertise:** UI Design, Software Design Architecture
+
+---
+
+### 🚀 Projects
+
+- **[Morse Explorer](https://morse-explorer.vercel.app/):** A private project showcasing my web development skills (repo is private).
+- **[DeFi Basic App](https://github.com/akaMiWP/defi-basic-app):** A public repository demonstrating my skills in JavaScript and Solidity.
+- **[DeFi Basic Smart Contract](https://github.com/akaMiWP/defi-basic-smart-contract):** A smart contract project showcasing my Solidity expertise.
+
+---
+
+### 📊 GitHub Stats
+
+![Pep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akaMiWP&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akaMiWP&layout=compact&theme=tokyonight)
+
+---
+
+### 🎓 Certifications
+
+- **EVM Chain Certification from Alchemy University:**
+  - Blockchain Cryptography
+  - Ethereum Node API
+  - Smart Contract Development
+  - Solidity
