@@ -13,6 +13,12 @@ I'm a full-time iOS software engineer with a deep passion for Web3 technology. W
 - **Secondary Programming Languages:** JavaScript, Solidity
 - **Strong Expertise:** UI Design, Software Design Architecture
 
+#### Libraries and Tools
+
+- **iOS**: MVC, MVVM, VIPER, TCA, SwiftUI, UIKit, SnapKit, Combine, RxSwift, Swinject, etc.
+- **Full-Stack Web**: VITE, ChakraUI, React-TS, Vercel
+- **Smart Contract and Backend as a Scripting**: Hardhat
+
 ---
 
 ### 🚀 Projects
