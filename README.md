@@ -23,9 +23,13 @@ I'm a full-time iOS software engineer with a deep passion for Web3 technology. W
 
 ### 🚀 Projects
 
+Finished Projects:
 - **[Morse Explorer](https://morse-explorer.vercel.app/):** A private project showcasing my web development skills (repo is private).
 - **[DeFi Basic App](https://github.com/akaMiWP/defi-basic-app):** A public repository demonstrating my skills in JavaScript and Solidity.
 - **[DeFi Basic Smart Contract](https://github.com/akaMiWP/defi-basic-smart-contract):** A smart contract project showcasing my Solidity expertise.
+
+Ongoing project(s):
+- **[iOS Crypto Wallet](https://github.com/akaMiWP/crypto-wallet):** An evm-based wallets managemenet using WalletCore and Web3.swift
 
 ---
 
