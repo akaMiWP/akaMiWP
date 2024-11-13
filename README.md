@@ -12,7 +12,7 @@ I'm a full-time iOS software engineer with a deep passion for Web3 technology. W
 - **Primary Programming Language:** Swift
 - **Secondary Programming Languages:** JavaScript, Solidity
 - **Strong Expertise:** UI Design, Software Design Architecture
-- I'm learning Rust and Solana
+- I'm currently learning Rust programming language for Solana development
 
 #### Libraries and Tools
 
