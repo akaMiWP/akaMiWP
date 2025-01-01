@@ -1,7 +1,7 @@
 
 ### 👋 Hi there! You can call me Michael
 
-I'm a full-time iOS software engineer with a deep passion for Web3 technology. While my primary role is as an iOS developer, I also have experience as a full-stack Ethereum blockchain developer. I hold an EVM Chain Certification from Alchemy University, where I gained expertise in blockchain cryptography, Ethereum node APIs, smart contract development, and Solidity.
+I'm a full-time iOS software engineer with a deep passion for Web3 technology. While my primary role is as an iOS developer, I also have experience as a full-stack Ethereum blockchain developer. I hold an EVM Chain Certification from Alchemy University, where I gained expertise in blockchain cryptography, Ethereum node APIs, smart contract development. In addition, I get certified by Ackee Blockchain in developing Solana program by using Anchor framework
 
 🌍 **Location:** Bangkok, Thailand
 
