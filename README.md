@@ -16,7 +16,7 @@ I'm a full-time iOS software engineer with a deep passion for Web3 technology. W
 
 #### Libraries and Tools
 
-- **iOS**: MVC, MVVM, VIPER, TCA, SwiftUI, UIKit, SnapKit, Combine, RxSwift, Swinject, etc.
+- **iOS**: MVC, MVVM, VIPER, TCA, SwiftUI, UIKit, SnapKit, Combine, RxSwift, Swinject, Swift Concurrency, GCD, etc.
 - **Full-Stack Web**: VITE, ChakraUI, React-TS, Vercel
 - **Smart Contract and Backend as a Scripting**: Hardhat, Anchor
 
