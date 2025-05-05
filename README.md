@@ -25,6 +25,7 @@ Currently, I have necessity to expand my domain knowledge to cross-platform tech
 ### 🚀 Projects
 
 Finished Projects:
+- **[Fluent Spaceship](https://fluent-spaceship.vercel.app/): A game project
 - **[Morse Explorer](https://morse-explorer.vercel.app/):** A private project showcasing my web development skills (repo is private).
 - **[Topic Counter](https://simple-fullstack-solana-project.vercel.app/):** A simple full stack project that integrates frontend with deployed Solana program
 - **[DeFi Basic App](https://github.com/akaMiWP/defi-basic-app):** A public repository demonstrating my skills in JavaScript and Solidity.
